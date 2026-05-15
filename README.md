@@ -19,8 +19,8 @@ A sophisticated, full-stack note-taking application featuring a "Royal Blackcurr
 - **Deployment:** Vercel (Frontend), Render (Backend).
 
 ## 📸 Preview
-![App Screenshot](<img width="1897" height="966" alt="image" src="https://github.com/user-attachments/assets/7201b5d5-51a6-407e-97c3-2b35cff4636d" />
-)
+![App Screenshot]<img width="1897" height="966" alt="Screenshot 2026-05-15 103024" src="https://github.com/user-attachments/assets/0fa8a51d-c0b6-4fea-bc63-cb9d428ed43e" />
+
 
 ## ⚙️ Installation & Setup
 1. Clone the repo: `git clone https://github.com/Dhruvil7582/Note-App-Full-Stack.git`
