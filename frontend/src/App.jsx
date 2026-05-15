@@ -73,13 +73,23 @@ function App() {
       <div className="max-w-5xl mx-auto">
         
         {/* Header Section */}
+        {/* Header Section */}
         <header className="flex flex-col md:flex-row md:items-center justify-between mb-12 gap-6 border-b border-[#2D262D] pb-6">
-          <div>
-            <h1 className="text-4xl font-serif font-bold text-[#F3E5AB] tracking-tight">Royal Journal</h1>
-            <p className="text-[#A494A4] text-sm mt-1">A rich workspace for your deep thoughts and ideas.</p>
+          {/* Logo & Title Group */}
+          <div className="flex items-center gap-4">
+            <img 
+              src="/favicon.png" 
+              alt="Royal Logo" 
+              className="w-14 h-14 object-contain shrink-0" 
+              onError={(e) => e.target.style.display = 'none'} // Hides broken img tag if file is missing
+            />
+            <div>
+              <h1 className="text-4xl font-serif font-bold text-[#F3E5AB] tracking-tight">Royal Journal</h1>
+              <p className="text-[#A494A4] text-sm mt-1">A rich workspace for your deep thoughts and ideas.</p>
+            </div>
           </div>
           
-          {/* Search Bar */}
+          {/* Search Bar - Stays on the right */}
           <div className="relative group">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-[#A494A4] group-focus-within:text-[#F3E5AB] transition-colors" size={18} />
             <input 
