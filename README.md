@@ -3,7 +3,7 @@
 A sophisticated, full-stack note-taking application featuring a "Royal Blackcurrent" luxury aesthetic. Built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS.
 
 ## 🚀 Live Demo
-[Check out the Live App here!](https://note-app-full-stack-seven.vercel.app/)
+[Check out the Live App here!](https://royal-journel.vercel.app/)
 
 ## ✨ Features
 * **Elegant Design:** Custom high-end "Royal Blackcurrent" & Champagne Gold theme.
@@ -19,7 +19,7 @@ A sophisticated, full-stack note-taking application featuring a "Royal Blackcurr
 - **Deployment:** Vercel (Frontend), Render (Backend).
 
 ## 📸 Preview
-![App Screenshot]<img width="1897" height="966" alt="Screenshot 2026-05-15 103024" src="https://github.com/user-attachments/assets/0fa8a51d-c0b6-4fea-bc63-cb9d428ed43e" />
+![App Screenshot]<img width="1900" height="883" alt="Screenshot 2026-05-15 120132" src="https://github.com/user-attachments/assets/876364d8-338f-45ff-9a42-d295b7400412" />
 
 
 ## ⚙️ Installation & Setup
